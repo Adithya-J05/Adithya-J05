@@ -33,5 +33,4 @@ I build intelligent systems focusing on **Computer Vision**, **NLP**, and **Rein
 
 ### 📫 Let's Connect
 [LinkedIn](https://linkedin.com/in/adithya-j25aug2005) | [Email](mailto:adithya.j.dev@gmail.com) | Kochi, India 📍
-Adithya-J05/Adithya-J05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
